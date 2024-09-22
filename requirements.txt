@@ -1,0 +1,8 @@
+# apt-get install -y libgl1-mesa-glx libglib2.0-0
+# apt-get install -y python3-tk
+
+natsort
+cython_bbox
+easydict
+pycocotools
+hydra-core
