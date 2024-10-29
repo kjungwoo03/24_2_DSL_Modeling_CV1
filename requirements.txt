@@ -6,3 +6,7 @@ cython_bbox
 easydict
 pycocotools
 hydra-core
+
+# AlphaPose
+python setup.py build develop
+
